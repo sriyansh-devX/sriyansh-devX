@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ssinha0351@gmail.com**
 
-- ⚡ Fun fact **I am creative and Hot**
+- ⚡ Fun fact **I am creative **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
