@@ -1,6 +1,6 @@
 
 <h1 align="center">👑 Sriyansh Sinha 👑</h1>
-<h3 align="center">🚀 Aspiring Developer | Future Tech Leader | Creative Mind</h3>
+<h3 align="center">🚀 Aspiring Developer | Future Techie | Creative Mind</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;B.Tech+CSE+Student;Future+Innovator;Web+Developer+in+Progress;Dreaming+Big+%F0%9F%94%A5">
