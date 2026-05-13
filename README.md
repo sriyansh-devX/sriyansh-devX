@@ -1,5 +1,5 @@
 
-<h1 align="center">👑 Sriyansh Sinha 👑</h1>
+<h1 align="center"> Sriyansh Sinha </h1>
 <h3 align="center">🚀 Aspiring Developer | Future Techie | Creative Mind</h3>
 
 <p align="center">
